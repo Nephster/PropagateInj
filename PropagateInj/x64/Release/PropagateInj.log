@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(42,35): warning C4838: conversion from 'SIZE_T' to 'DWORD' requires a narrowing conversion
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(42,35): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(43,36): warning C4838: conversion from 'SIZE_T' to 'DWORD' requires a narrowing conversion
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(43,36): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(73,47): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(49,13): warning C4101: 'hNtDll': unreferenced local variable
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(51,10): warning C4101: 'winName': unreferenced local variable
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(56,12): warning C4101: 'rd': unreferenced local variable
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(80,16): warning C4101: 'SectionOffset': unreferenced local variable
+C:\Users\uadmin\source\repos\PropagateInj\PropagateInj\Source.cpp(105,16): warning C4101: 'SectionOffset': unreferenced local variable
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PropagateInj.vcxproj -> C:\Users\uadmin\source\repos\PropagateInj\x64\Release\PropagateInj.exe
